@@ -70,6 +70,3 @@ To start the development server with hot reloading:
 npm run dev
 ```
 
-## License
-
-This project is part of the Location Tracking System and is intended for educational purposes.
